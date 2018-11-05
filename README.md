@@ -1,0 +1,11 @@
+# clj-pulsar
+
+A Clojure library to work with Apache Pulsar
+
+
+## License
+
+Copyright &copy; 2018 UPD Consulting
+Copyright &copy; 2018 Fern Flower Lab
+
+Distributed under the MIT License.

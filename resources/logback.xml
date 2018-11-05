@@ -1,0 +1,5 @@
+<configuration scan="false">
+    <logger name="com.datastax.driver" level="WARN"/>
+    <logger name="io.netty" level="WARN"/>
+    <logger name="org.apache.pulsar" level="WARN"/>
+</configuration>

@@ -1,4 +1,4 @@
-(defproject updcon/pulsar-clj "0.0.1-SNAPSHOT"
+(defproject updcon/clj-pulsar "0.0.1-SNAPSHOT"
   :description "A Clojure library to work with Apache Pulsar"
   :url "https://github.com/updcon/clj-pulsar"
   :license {:name "MIT License"}
